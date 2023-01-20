@@ -1,21 +1,4 @@
-<p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets-rebrand/svg/Fosscord-Icon-Rounded-Subtract.svg" />
-</p>
-<h1 align="center">Fosscord</h1>
-<p align="center">
-   <a href="https://discord.gg/ZrnGQP6p3d">
-    <img src="https://img.shields.io/discord/806142446094385153?color=7489d5&logo=discord&logoColor=ffffff" />
-  </a>
-  <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
-  <a title="Crowdin" target="_blank" href="https://translate.fosscord.com/"><img src="https://badges.crowdin.net/fosscord/localized.svg"></a>
-  <a href="https://opencollective.com/fosscord">
-    <img src="https://opencollective.com/fosscord/tiers/badge.svg">
-  </a>
-</p>
-
-### [About](https://fosscord.com/)
-
-Fosscord is a **f**ree **o**pen **s**ource **s**elfhostable dis**cord** compatible chat, voice and video platform
+<h1 align="center">Discord Tomorrow</h1>
 
 * **Discord-compatible** (Communicate with all friends who are "still" using [discord.com](https://discord.com))
 * **Selfhostable** ([Setup Docs](https://docs.fosscord.com/server/setup))
@@ -26,9 +9,6 @@ Fosscord is a **f**ree **o**pen **s**ource **s**elfhostable dis**cord** compatib
 * **Themeable** (cross-platform theme system with design editor)
 * **Encrypted** (End to end encryption for secure and private conversation)
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
-
-Logo by [@ItsRealmy](https://github.com/ItsRealmy).
-Original logo by [@nwlandas](https://twitter.com/nwlandas).
 
 ### Installation
 
